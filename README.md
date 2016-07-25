@@ -1,4 +1,4 @@
-# starter-node-react
+# starter-node-react-server
 A starter project for react-server-app, if you don't familiar with React with Webpack,
 the following links is highly recommended.
 
