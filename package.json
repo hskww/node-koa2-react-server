@@ -1,5 +1,5 @@
 {
-  "name": "node-koa-react-server",
+  "name": "node-koa2-react-server",
   "version": "1.0.0",
   "description": "server side react render for koa",
   "main": "src/server/app.js",
@@ -11,7 +11,10 @@
     "watch": "node  src/server/koa-webpackdev.js"
   },
   "keywords": [
-    "koa-react"
+    "koa-react",
+    "react",
+    "react-server",
+    "node-react"
   ],
   "dependencies": {
     "react": "^15.2.1",
