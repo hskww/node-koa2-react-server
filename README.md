@@ -57,6 +57,11 @@ then the `bundle.js`(rename 'index.js') is serving at `http://localhost:9000/js/
 
 **remember!!! you should modify the path of file `index.js` in `layout.jsx` manually!**
 
+### Install supervisor
+watch app.js and restart node server
+
+    npm install -g supervisor
+
 ### Start
 
     npm start
