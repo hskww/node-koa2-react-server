@@ -10,10 +10,10 @@ the following links is highly recommended.
 please use the latest version of following tools:
 
 1. ECMAScript 6
-1. React [0.14](http://facebook.github.io/react/blog/2015/10/07/react-v0.14.html)
+1. React [15](https://facebook.github.io/react/blog/2016/04/07/react-v15.html)
 1. Webpack 1.12
 1. Babel [6.0](https://babeljs.io/blog/2015/10/29/6.0.0/)
-1. Koa 2.0
+1. Koa [2.0](http://koajs.com)
 1. Node.js 4.4+
 
 ## Documentation
